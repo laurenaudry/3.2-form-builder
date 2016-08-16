@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.dropdown-lang {
+  visibility: hidden;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+
+.dropdown--visible {
+  visibility: visible;
+}
